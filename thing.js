@@ -9,7 +9,7 @@ export default class things extends Component {
     super(props);
     this.state = {
       isChecked: false,
-      isRadioSelected: true,
+      isRadioSelected: false,
     };
   }
  
